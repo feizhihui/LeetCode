@@ -22,11 +22,12 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
-        size = len(nums)
-        for i in range(size):
-            for j in range(i + 1, size):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+        d = dict()
+        for i, e in enumerate(nums):
+            if target - nums[i] in d:
+                return [d[target - nums[i]], i]
+            else:
+                d[e] = i
         raise Exception
 
 
