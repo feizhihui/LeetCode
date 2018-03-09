@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad534a-539f-4a05-a86e-df708debd863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng_list/main130.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page1/main18.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page1/main38.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page1/main46.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page1/main47.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main51.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main52.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main53.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main130.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page5/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page5/main215.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/__init__.py" afterPath="$PROJECT_DIR$/page1/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main1.py" afterPath="$PROJECT_DIR$/page1/main1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main12.py" afterPath="$PROJECT_DIR$/page1/main12.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main13.py" afterPath="$PROJECT_DIR$/page1/main13.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main14.py" afterPath="$PROJECT_DIR$/page1/main14.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main15.py" afterPath="$PROJECT_DIR$/ng_list/main15_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main16.py" afterPath="$PROJECT_DIR$/page1/main16.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main2.py" afterPath="$PROJECT_DIR$/page1/main2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main20.py" afterPath="$PROJECT_DIR$/page1/main20.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main21.py" afterPath="$PROJECT_DIR$/page1/main21.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main26.py" afterPath="$PROJECT_DIR$/page1/main26.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main27.py" afterPath="$PROJECT_DIR$/page1/main27.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main28.py" afterPath="$PROJECT_DIR$/page1/main28.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main3.py" afterPath="$PROJECT_DIR$/page1/main3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main35.py" afterPath="$PROJECT_DIR$/page1/main35.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main4.py" afterPath="$PROJECT_DIR$/page1/main4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main5.py" afterPath="$PROJECT_DIR$/page1/main5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main6.py" afterPath="$PROJECT_DIR$/page1/main6.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main7.py" afterPath="$PROJECT_DIR$/page1/main7.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accepted_list/main9.py" afterPath="$PROJECT_DIR$/page1/main9.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ng_list/main15.py" afterPath="$PROJECT_DIR$/page1/main15.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng_list/main130.py" afterPath="$PROJECT_DIR$/ng_list/main130.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/main130.py" afterPath="$PROJECT_DIR$/page3/main130.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,18 +48,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$main2_1.coverage" NAME="main2_1 Coverage Results" MODIFIED="1520430727096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main130.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page3/main130.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-575">
-              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,6 +104,7 @@
         <option value="$PROJECT_DIR$/page1/main47.py" />
         <option value="$PROJECT_DIR$/page1/main18.py" />
         <option value="$PROJECT_DIR$/page5/main215.py" />
+        <option value="$PROJECT_DIR$/ng_list/main130.py" />
         <option value="$PROJECT_DIR$/page3/main130.py" />
       </list>
     </option>
@@ -360,9 +317,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25835475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25835475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -740,18 +696,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ng_list/main130.py">
+    <entry file="file://$PROJECT_DIR$/page3/main130.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="336">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page3/main130.py">
+    <entry file="file://$PROJECT_DIR$/ng_list/main130.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
