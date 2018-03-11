@@ -13,60 +13,54 @@ class Solution:
         :rtype: void Do not return anything, modify board in-place instead.
         """
 
-        self.n = len(board)
-        if self.n == 0:
-            return board
+        if not any(board):
+            return
         self.m = len(board[0])
-        if self.m == 0:
-            return board
+        self.n = len(board)
+
         self.board = board
         self.occur = [[0 for _ in range(self.m)] for _ in range(self.n)]
+        count = 0
         for i in range(self.n):
             for j in range(self.m):
-                if self.board[i][j] == 'O':
-                    self.dfs(i, j)
-        return self.board
+                if self.board[i][j] == 'O' and self.occur[i][j] == 0:
+                    self.bfs(i, j)
+                    count += 1
 
-    def dfs(self, i, j):
+    def bfs(self, i, j):  # calculate how many Non Unicom region
         """
         :param x:
         :param y:
         :return:
         """
-        if self.occur[i][j] == 1:
-            return True
-        self.occur[i][j] = 1
+        coor_list = [(i, j)]
+        span = []
+        around = True  # around by X
+        while len(coor_list) > 0:
+            span.extend(coor_list)
+            neighbors = []
+            for (i, j) in coor_list:
+                self.occur[i][j] = 1
 
-        if i - 1 < 0 or i + 1 >= self.n or j - 1 < 0 or j + 1 >= self.m:
-            return False
-
-        if i - 1 >= 0 and self.board[i - 1][j] == 'O':
-            if not self.dfs(i - 1, j):
-                return False
-        if i + 1 < self.n and self.board[i + 1][j] == 'O':
-            if not self.dfs(i + 1, j):
-                return False
-        if j - 1 >= 0 and self.board[i][j - 1] == 'O':
-            if not self.dfs(i, j - 1):
-                return False
-        if j + 1 < self.m and self.board[i][j + 1] == 'O':
-            if not self.dfs(i, j + 1):
-                return False
-
-        # around is wall
-        self.board[i][j] = 'X'
-        return True
+                if i - 1 < 0 or i + 1 >= self.n or j - 1 < 0 or j + 1 >= self.m:
+                    around = False
+                if i - 1 >= 0 and self.board[i - 1][j] == 'O' and self.occur[i - 1][j] == 0:
+                    neighbors.append((i - 1, j))
+                if i + 1 < self.n and self.board[i + 1][j] == 'O' and self.occur[i + 1][j] == 0:
+                    neighbors.append((i + 1, j))
+                if j - 1 >= 0 and self.board[i][j - 1] == 'O' and self.occur[i][j - 1] == 0:
+                    neighbors.append((i, j - 1))
+                if j + 1 < self.m and self.board[i][j + 1] == 'O' and self.occur[i][j + 1] == 0:
+                    neighbors.append((i, j + 1))
+            coor_list = neighbors
+        if around:
+            for (i, j) in span:
+                self.board[i][j] = 'X'
 
 
 if __name__ == '__main__':
     s = Solution()
-    board = s.solve([['X', 'X', 'X', 'X'],
-                     ['X', 'O', 'O', 'X'],
-                     ['X', 'X', 'O', 'X'],
-                     ['X', 'O', 'X', 'X'],
-                     ['X', 'X', 'X', 'X'],
-                     ['X', 'O', 'O', 'X'],
-                     ['X', 'X', 'O', 'O'],
-                     ['X', 'O', 'X', 'O']])
-    # board = s.solve([])
+    board = [['O']]
+    s.solve(board)
+
     print(board)
