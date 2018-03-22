@@ -3,7 +3,7 @@
 
 
 '''
-N-Queue
+N-Queen
 '''
 
 from copy import deepcopy
@@ -79,6 +79,6 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    result = s.solveNQueens(4)
+    result = s.solveNQueens(8)
     print(result)
     print(len(result))

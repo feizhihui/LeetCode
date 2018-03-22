@@ -1,6 +1,4 @@
 # encoding=utf-8
-from collections import deque
-
 
 # Definition for a binary tree node.
 class TreeNode:
