@@ -74,7 +74,7 @@ def quick_sort(lists, left, right):
 
 
 print(arr)
-print(bubble_sort(arr))
-print(merge_sort(arr))
+# print(bubble_sort(arr))
+# print(merge_sort(arr))
 print(quick_sort(arr, 0, len(arr) - 1))
 
