@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad534a-539f-4a05-a86e-df708debd863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main136.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main137.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page5/main205.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page6/main263.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page6/main264.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page9/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page9/main493.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sword_to_offer/continuous_positive_sequence.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sword_to_offer/n_dices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sword_to_offer/smaller_numbers_after_self.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/z_netease/entity_analysis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sword_to_offer/joseph_loop.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,6 +48,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$find_over_half.coverage" NAME="find_over_half Coverage Results" MODIFIED="1521712212989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sword_to_offer" />
     <SUITE FILE_PATH="coverage/LeetCode$main51.coverage" NAME="main51 Coverage Results" MODIFIED="1521706327235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page2" />
     <SUITE FILE_PATH="coverage/LeetCode$main2_1.coverage" NAME="main2_1 Coverage Results" MODIFIED="1520430727096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
+    <SUITE FILE_PATH="coverage/LeetCode$joseph_loop.coverage" NAME="joseph_loop Coverage Results" MODIFIED="1522134518510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sword_to_offer" />
     <SUITE FILE_PATH="coverage/LeetCode$main52.coverage" NAME="main52 Coverage Results" MODIFIED="1520584257063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page2" />
     <SUITE FILE_PATH="coverage/LeetCode$closure_graph.coverage" NAME="closure_graph Coverage Results" MODIFIED="1521723881866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_meituan" />
     <SUITE FILE_PATH="coverage/LeetCode$entity_analysis.coverage" NAME="entity_analysis Coverage Results" MODIFIED="1522059402081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_netease" />
@@ -85,18 +76,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1520494229175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="n_dices.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sword_to_offer/n_dices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/accepted_list/Main20.py" />
         <option value="$PROJECT_DIR$/accepted_list/main20.py" />
         <option value="$PROJECT_DIR$/accepted_list/main21.py" />
         <option value="$PROJECT_DIR$/accepted_list/main26.py" />
@@ -181,6 +160,7 @@
         <option value="$PROJECT_DIR$/sword_to_offer/continuous_positive_sequence.py" />
         <option value="$PROJECT_DIR$/page5/main205.py" />
         <option value="$PROJECT_DIR$/sword_to_offer/n_dices.py" />
+        <option value="$PROJECT_DIR$/sword_to_offer/joseph_loop.py" />
       </list>
     </option>
   </component>
@@ -261,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.n_dices">
+  <component name="RunManager" selected="Python.joseph_loop">
     <configuration name="continuous_positive_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,20 +278,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main136" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="joseph_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sword_to_offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page3/main136.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword_to_offer/joseph_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +333,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main136" />
-      <item index="1" class="java.lang.String" itemvalue="Python.entity_analysis" />
-      <item index="2" class="java.lang.String" itemvalue="Python.continuous_positive_sequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main205" />
-      <item index="4" class="java.lang.String" itemvalue="Python.n_dices" />
+      <item index="0" class="java.lang.String" itemvalue="Python.entity_analysis" />
+      <item index="1" class="java.lang.String" itemvalue="Python.continuous_positive_sequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main205" />
+      <item index="3" class="java.lang.String" itemvalue="Python.n_dices" />
+      <item index="4" class="java.lang.String" itemvalue="Python.joseph_loop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.n_dices" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main205" />
-        <item index="2" class="java.lang.String" itemvalue="Python.continuous_positive_sequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.entity_analysis" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main136" />
+        <item index="0" class="java.lang.String" itemvalue="Python.joseph_loop" />
+        <item index="1" class="java.lang.String" itemvalue="Python.n_dices" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main205" />
+        <item index="3" class="java.lang.String" itemvalue="Python.continuous_positive_sequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.entity_analysis" />
       </list>
     </recent_temporary>
   </component>
@@ -385,16 +365,16 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27260083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27260083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3379694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3727399" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -472,7 +452,7 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="32" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -481,13 +461,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page1/main21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page1/main26.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -849,6 +822,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword_to_offer/joseph_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
