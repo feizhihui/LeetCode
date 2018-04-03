@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad534a-539f-4a05-a86e-df708debd863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main58.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main66.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main67.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main69.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main70.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main83.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/main88.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main101.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main104.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main107.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/main104.py" afterPath="$PROJECT_DIR$/page3/main104.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,6 +41,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$collections_example.coverage" NAME="collections_example Coverage Results" MODIFIED="1521102977973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_algo" />
     <SUITE FILE_PATH="coverage/LeetCode$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1520428503832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
     <SUITE FILE_PATH="coverage/LeetCode$main136.coverage" NAME="main136 Coverage Results" MODIFIED="1521796880107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
+    <SUITE FILE_PATH="coverage/LeetCode$main107.coverage" NAME="main107 Coverage Results" MODIFIED="1522721247969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
     <SUITE FILE_PATH="coverage/LeetCode$main7.coverage" NAME="main7 Coverage Results" MODIFIED="1520507299666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
     <SUITE FILE_PATH="coverage/LeetCode$main130.coverage" NAME="main130 Coverage Results" MODIFIED="1520667285416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
     <SUITE FILE_PATH="coverage/LeetCode$main101.coverage" NAME="main101 Coverage Results" MODIFIED="1522678935046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
@@ -92,48 +86,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1520494229175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main83.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/main83.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main88.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/main88.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main101.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/main101.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main104.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page3/main104.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/page1/main47.py" />
         <option value="$PROJECT_DIR$/page1/main18.py" />
         <option value="$PROJECT_DIR$/page5/main215.py" />
         <option value="$PROJECT_DIR$/ng_list/main130.py" />
@@ -218,6 +170,7 @@
         <option value="$PROJECT_DIR$/page2/main88.py" />
         <option value="$PROJECT_DIR$/page3/main101.py" />
         <option value="$PROJECT_DIR$/page3/main104.py" />
+        <option value="$PROJECT_DIR$/page3/main107.py" />
       </list>
     </option>
   </component>
@@ -308,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main101">
+  <component name="RunManager" selected="Python.main107">
     <configuration name="main101" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,20 +280,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main69" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main107" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page2/main69.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page3/main107.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,19 +353,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main69" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main70" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main83" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main88" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main101" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main70" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main83" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main88" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main101" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main107" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main101" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main88" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main83" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main70" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main69" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main107" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main101" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main88" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main83" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main70" />
       </list>
     </recent_temporary>
   </component>
@@ -432,13 +385,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1602" height="876" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27496758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27496758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27260083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27260083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -523,8 +476,13 @@
           <line>9</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/page3/main107.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -533,13 +491,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page1/main18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page5/main215.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -852,22 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page2/main83.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/main88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1013586911/_collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -882,6 +817,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page2/main83.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/main88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page3/main101.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -892,8 +843,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page3/main104.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="194">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3/main107.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>
