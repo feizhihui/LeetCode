@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad534a-539f-4a05-a86e-df708debd863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main107.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main108.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/main104.py" afterPath="$PROJECT_DIR$/page3/main104.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,6 +31,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1520478217674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
     <SUITE FILE_PATH="coverage/LeetCode$main14.coverage" NAME="main14 Coverage Results" MODIFIED="1520512833796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
     <SUITE FILE_PATH="coverage/LeetCode$get_postoreder.coverage" NAME="get_postoreder Coverage Results" MODIFIED="1521636991082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sword_to_offer" />
+    <SUITE FILE_PATH="coverage/LeetCode$main108.coverage" NAME="main108 Coverage Results" MODIFIED="1522722540007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
     <SUITE FILE_PATH="coverage/LeetCode$main189.coverage" NAME="main189 Coverage Results" MODIFIED="1521270886167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page4" />
     <SUITE FILE_PATH="coverage/LeetCode$permutate_to_min.coverage" NAME="permutate_to_min Coverage Results" MODIFIED="1521769816564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sword_to_offer" />
     <SUITE FILE_PATH="coverage/LeetCode$post_expression.coverage" NAME="post_expression Coverage Results" MODIFIED="1521642719880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/znetease" />
@@ -120,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/page1/main18.py" />
         <option value="$PROJECT_DIR$/page5/main215.py" />
         <option value="$PROJECT_DIR$/ng_list/main130.py" />
         <option value="$PROJECT_DIR$/page3/main130.py" />
@@ -171,6 +170,7 @@
         <option value="$PROJECT_DIR$/page3/main101.py" />
         <option value="$PROJECT_DIR$/page3/main104.py" />
         <option value="$PROJECT_DIR$/page3/main107.py" />
+        <option value="$PROJECT_DIR$/page3/main108.py" />
       </list>
     </option>
   </component>
@@ -261,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main107">
+  <component name="RunManager" selected="Python.main108">
     <configuration name="main101" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,20 +298,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main70" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main108" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page2/main70.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page3/main108.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +353,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main70" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main83" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main88" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main101" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main107" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main83" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main88" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main101" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main107" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main108" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main107" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main101" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main88" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main83" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main70" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main108" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main107" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main101" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main88" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main83" />
       </list>
     </recent_temporary>
   </component>
@@ -491,14 +491,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page5/main215.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ng_list/main130.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -853,6 +845,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3/main108.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding />
         </state>
       </provider>
