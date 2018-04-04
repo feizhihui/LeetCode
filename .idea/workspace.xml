@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ad534a-539f-4a05-a86e-df708debd863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main122.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main125.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main141.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main142.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page3/main155.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,6 +77,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$main67.coverage" NAME="main67 Coverage Results" MODIFIED="1522653674295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page2" />
     <SUITE FILE_PATH="coverage/LeetCode$Insertion_Sort.coverage" NAME="Insertion_Sort Coverage Results" MODIFIED="1521710085389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_algo" />
     <SUITE FILE_PATH="coverage/LeetCode$main1__1_.coverage" NAME="main1 (1) Coverage Results" MODIFIED="1520472835336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
+    <SUITE FILE_PATH="coverage/LeetCode$main155.coverage" NAME="main155 Coverage Results" MODIFIED="1522832290252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page3" />
     <SUITE FILE_PATH="coverage/LeetCode$main572.coverage" NAME="main572 Coverage Results" MODIFIED="1521516317911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page11" />
     <SUITE FILE_PATH="coverage/LeetCode$main287.coverage" NAME="main287 Coverage Results" MODIFIED="1522139053869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page6" />
     <SUITE FILE_PATH="coverage/LeetCode$main13.coverage" NAME="main13 Coverage Results" MODIFIED="1520511684667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/accepted_list" />
@@ -100,21 +98,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main141.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/main141.py">
+      <file leaf-file-name="main155.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page3/main155.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="22" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main142.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page3/main142.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="-161">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -158,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sword_to_offer/full_permutation.py" />
         <option value="$PROJECT_DIR$/page2/main51.py" />
         <option value="$PROJECT_DIR$/sort_algo/Insertion_Sort.py" />
         <option value="$PROJECT_DIR$/sword_to_offer/find_over_half.py" />
@@ -209,6 +196,7 @@
         <option value="$PROJECT_DIR$/page3/main125.py" />
         <option value="$PROJECT_DIR$/page3/main141.py" />
         <option value="$PROJECT_DIR$/page3/main142.py" />
+        <option value="$PROJECT_DIR$/page3/main155.py" />
       </list>
     </option>
   </component>
@@ -289,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main142">
+  <component name="RunManager" selected="Python.main155">
     <configuration name="main122" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,20 +332,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main155" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z_netease" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z_netease/main5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page3/main155.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,19 +369,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main6" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main122" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main125" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main142" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main6" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main122" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main125" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main142" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main155" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main142" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main125" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main122" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main6" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main155" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main142" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main125" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main122" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main6" />
       </list>
     </recent_temporary>
   </component>
@@ -520,13 +508,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sword_to_offer/permutate_to_min.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort_algo/advanced_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -896,6 +877,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page3/main142.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page3/main141.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -904,10 +893,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page3/main142.py">
+    <entry file="file://$PROJECT_DIR$/page3/main155.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="-161">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="30" />
           <folding />
         </state>
       </provider>
